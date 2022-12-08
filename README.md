@@ -11,7 +11,7 @@
 9.[Câu 9](https://codepen.io/truong-duc-duong/pen/MWXOywe)
 10.[Câu 10](https://codepen.io/truong-duc-duong/pen/bGKqpNa)
 11.[Câu 11](https://codepen.io/truong-duc-duong/pen/ExRWPMJ)
-12.[Câu 12]https://codepen.io/truong-duc-duong/pen/wvXPMbZ)
+12.[Câu 12](https://codepen.io/truong-duc-duong/pen/wvXPMbZ)
 13.[Câu 13](https://codepen.io/truong-duc-duong/pen/abKLGEp)
 14.[Câu 14](https://codepen.io/truong-duc-duong/pen/wvXPGvL)
 15.[Câu 15](https://codepen.io/truong-duc-duong/pen/RwJjrYy)
