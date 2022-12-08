@@ -22,6 +22,6 @@
 20.[Câu 20](https://codesandbox.io/s/bai20-hb5889)
 21.[Câu 21](https://codesandbox.io/s/bai21-mixz5g)
 # Thực hành
-[Câu 1] (https://codesandbox.io/s/components-dqd81y)
+[Câu 1] (https://codesandbox.io/s/cau-1-4etukm)
 [Câu 2] (https://codesandbox.io/s/bai-thuc-hanh-prop-va-state-j2dbib)
 [Câu 3] (https://codesandbox.io/s/baikt2-3-du-an-cuoi-gnxne4)
