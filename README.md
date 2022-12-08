@@ -25,3 +25,4 @@
 [Câu 1] (https://codesandbox.io/s/cau-1-4etukm)
 [Câu 2] (https://codesandbox.io/s/bai-thuc-hanh-prop-va-state-j2dbib)
 [Câu 3] (https://codesandbox.io/s/baikt2-3-du-an-cuoi-gnxne4)
+[4] Bài thực hành react và compunemt (https://codesandbox.io/s/lam-quen-tao-camponent-vetbk3)
