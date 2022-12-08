@@ -1,7 +1,7 @@
 # Bài tập môn React
 ## Lý thuyết
-1.[Câu 1](https://codepen.io/truong-duc-duong/pen/oNyVxEe)
-2.[Câu 2]
+1.[Câu 1](https://codesandbox.io/s/cau-1-o8dh2f?file=/src/App.js)
+2.[Câu 2](https://codepen.io/truong-duc-duong/pen/oNyVxEe)
 3.[Câu 3](https://codesandbox.io/s/cau-3-qlhgee)
 4.[câu 4]
 5.[Câu 5](https://codepen.io/truong-duc-duong/pen/xxzyWwe)
